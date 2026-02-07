@@ -1,0 +1,5 @@
+menuconfig MODULES_MY_TEST_APP
+	bool "my_test_app"
+	default n
+	---help---
+		Enable support for my_test_app

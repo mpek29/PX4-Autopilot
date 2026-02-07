@@ -1,0 +1,5 @@
+menuconfig MODULES_MODULE_B
+	bool "module_b"
+	default n
+	---help---
+		Enable support for module_b

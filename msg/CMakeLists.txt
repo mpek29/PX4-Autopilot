@@ -92,6 +92,7 @@ set(msg_files
 	FollowTarget.msg
 	FollowTargetEstimator.msg
 	FollowTargetStatus.msg
+	Fruits.msg
 	FuelTankStatus.msg
 	FixedWingLateralGuidanceStatus.msg
 	FixedWingLateralStatus.msg
